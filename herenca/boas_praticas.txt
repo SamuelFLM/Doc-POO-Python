@@ -1,0 +1,7 @@
+
+
+Boas práticas:
+
+    - Proteger os atributos os deixando privados.
+    - Encapsular fazendo validações de valores dos atributos.
+    - Usar herenças para evitar repetir códigos.
